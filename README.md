@@ -5,12 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Sebastián%20Romero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%"/>
   
   <!-- Título y Subtítulo -->
-  <h1>👨‍💻 Full Stack Developer</h1>
+  <h1>👩🏻‍💻 Full Stack Developer</h1>
   <h3>Transformando ideas en código</h3>
   
   <!-- Frase -->
   <blockquote>
-    <p><em>"My greatest conflict is not between good and evil, but between clarity and the chaos within me."</em></p>
+    <p><em>"Apasionada por el Desarrollo Full Stack, capaz de construir soluciones tecnológicas escalables desde el diseño de interfaces hasta la lógica del servidor."</em></p>
   </blockquote>
   
   <br/>
