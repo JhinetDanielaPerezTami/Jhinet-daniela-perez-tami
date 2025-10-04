@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola,soy%20Jhinet%20Daniela%20Perez�&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jhinet%20Daniela%20Perez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%"/>
   
   <!-- Título y Subtítulo -->
   <h1>👩🏻‍💻 Full Stack Developer</h1>
@@ -37,8 +37,8 @@
 <ul>
   <li>🔭 Actualmente trabajando en proyectos web modernos</li>
   <li>🌱 Aprendiendo constantemente nuevas tecnologías</li>
-  <li>💼 <strong>Abierto a ofertas de trabajo</strong></li>
-  <li>📫 Contáctame: <a href="mailto:juansebastianromerocepeda29@gmail.com">juansebastianromerocepeda29@gmail.com</a></li>
+  <li>💼 <strong>Abierta a ofertas de trabajo</strong></li>
+  <li>📫 Contáctame: <a href="mailto:danielaperezzt79@gmail.com">danielaperezzt79@gmail.com</a></li>
   <li>💡 Puedes contactarme más fácilmente por <strong>LinkedIn</strong></li>
 </ul>
 
@@ -74,14 +74,12 @@
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </p>
   
   <h3>Herramientas</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </p>
   
 </div>
@@ -118,15 +116,15 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/daniela-p%C3%A9rez-914819378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:juansebastianromerocepeda29@gmail.com">
+  <a href="mailto:danielaperezzt79@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://github.com/JuanRomer0" target="_blank">
+  <a href="https://github.com/JhinetDanielaPerezTami" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
@@ -155,14 +153,4 @@
 </div>
 \`\`\`
 
-Este README incluye:
 
-✅ **Banner animado** en la parte superior e inferior  
-✅ **Sección "Sobre mí"** con información personalizada  
-✅ **Habilidades técnicas** organizadas por categorías con badges modernos  
-✅ **Estadísticas de GitHub** con gráficos visuales  
-✅ **Sección de contacto** con enlaces a LinkedIn, Gmail y GitHub  
-✅ **Nota importante** destacando que estás abierto a ofertas de trabajo  
-✅ **Diseño responsive** y profesional
-
-**Nota:** Recuerda actualizar el enlace de LinkedIn con tu perfil real donde dice `https://www.linkedin.com/in/tu-perfil`.
