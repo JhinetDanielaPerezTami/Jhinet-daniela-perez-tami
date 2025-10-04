@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Sebastián%20Romero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola,soy%20Jhinet%20Daniela%20Perez�&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%"/>
   
   <!-- Título y Subtítulo -->
   <h1>👩🏻‍💻 Full Stack Developer</h1>
@@ -31,8 +31,7 @@
 <h2>📋 Sobre mí</h2>
 
 <p>
-  ¡Hola! Soy Juan Sebastián, un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
-  Me especializo en desarrollo web full stack y estoy constantemente aprendiendo nuevas tecnologías.
+  ¡Hola! Soy Daniela Pérez, una desarrolladora apasionada por crear soluciones tecnológicas innovadoras. Me especializo en Desarrollo Full Stack y me mantengo en constante aprendizaje de nuevas tecnologías para ofrecer proyectos eficientes y escalables.
 </p>
 
 <ul>
